@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display&display=swap');
 
 :root {
   --foreground-rgb: 0, 0, 0;

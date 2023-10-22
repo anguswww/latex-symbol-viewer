@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        noto: ['Noto Sans Display','sans-serif']
+        // sans: ['Courier Prime'],
       },
     },
   },
