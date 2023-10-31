@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        // sans: ['Courier Prime'],
+        sans: ['Inter'],
       },
     },
   },

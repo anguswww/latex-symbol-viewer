@@ -1,0 +1,242 @@
+[
+    {
+      "symbol": "\\pm"
+    },
+    {
+      "symbol": "\\mp"
+    },
+    {
+      "symbol": "\\times"
+    },
+    {
+      "symbol": "\\div"
+    },
+    {
+      "symbol": "\\ast"
+    },
+    {
+      "symbol": "\\star"
+    },
+    {
+      "symbol": "\\circ"
+    },
+    {
+      "symbol": "\\bullet"
+    },
+    {
+      "symbol": "\\divideontimes"
+    },
+    {
+      "symbol": "\\ltimes"
+    },
+    {
+      "symbol": "\\rtimes"
+    },
+    {
+      "symbol": "\\cdot"
+    },
+    {
+      "symbol": "\\dotplus"
+    },
+    {
+      "symbol": "\\leftthreetimes"
+    },
+    {
+      "symbol": "\\rightthreetimes"
+    },
+    {
+      "symbol": "\\amalg"
+    },
+    {
+      "symbol": "\\otimes"
+    },
+    {
+      "symbol": "\\oplus"
+    },
+    {
+      "symbol": "\\ominus"
+    },
+    {
+      "symbol": "\\oslash"
+    },
+    {
+      "symbol": "\\odot"
+    },
+    {
+      "symbol": "\\circledcirc"
+    },
+    {
+      "symbol": "\\circleddash"
+    },
+    {
+      "symbol": "\\circledast"
+    },
+    {
+      "symbol": "\\bigcirc"
+    },
+    {
+      "symbol": "\\boxdot"
+    },
+    {
+      "symbol": "\\boxminus"
+    },
+    {
+      "symbol": "\\boxplus"
+    },
+    {
+      "symbol": "\\boxtimes"
+    },
+    {
+      "symbol": "\\diamond"
+    },
+    {
+      "symbol": "\\bigtriangleup"
+    },
+    {
+      "symbol": "\\bigtriangledown"
+    },
+    {
+      "symbol": "\\triangleleft"
+    },
+    {
+      "symbol": "\\triangleright"
+    },
+    {
+      "symbol": "\\lhd"
+    },
+    {
+      "symbol": "\\rhd"
+    },
+    {
+      "symbol": "\\unlhd"
+    },
+    {
+      "symbol": "\\unrhd"
+    },
+    {
+      "symbol": "\\cup"
+    },
+    {
+      "symbol": "\\cap"
+    },
+    {
+      "symbol": "\\uplus"
+    },
+    {
+      "symbol": "\\Cup"
+    },
+    {
+      "symbol": "\\Cap"
+    },
+    {
+      "symbol": "\\wr"
+    },
+    {
+      "symbol": "\\setminus"
+    },
+    {
+      "symbol": "\\smallsetminus"
+    },
+    {
+      "symbol": "\\sqcap"
+    },
+    {
+      "symbol": "\\sqcup"
+    },
+    {
+      "symbol": "\\wedge"
+    },
+    {
+      "symbol": "\\vee"
+    },
+    {
+      "symbol": "\\barwedge"
+    },
+    {
+      "symbol": "\\veebar"
+    },
+    {
+      "symbol": "\\doublebarwedge"
+    },
+    {
+      "symbol": "\\curlywedge"
+    },
+    {
+      "symbol": "\\curlyvee"
+    },
+    {
+      "symbol": "\\dagger"
+    },
+    {
+      "symbol": "\\ddagger"
+    },
+    {
+      "symbol": "\\intercal"
+    },
+    {
+      "symbol": "\\bigcap"
+    },
+    {
+      "symbol": "\\bigcup"
+    },
+    {
+      "symbol": "\\biguplus"
+    },
+    {
+      "symbol": "\\bigsqcup"
+    },
+    {
+      "symbol": "\\prod"
+    },
+    {
+      "symbol": "\\coprod"
+    },
+    {
+      "symbol": "\\bigwedge"
+    },
+    {
+      "symbol": "\\bigvee"
+    },
+    {
+      "symbol": "\\bigodot"
+    },
+    {
+      "symbol": "\\bigoplus"
+    },
+    {
+      "symbol": "\\bigotimes"
+    },
+    {
+      "symbol": "\\sum"
+    },
+    {
+      "symbol": "\\int"
+    },
+    {
+      "symbol": "\\oint"
+    },
+    {
+      "symbol": "\\iint"
+    },
+    {
+      "symbol": "\\iiint"
+    },
+    {
+      "symbol": "\\iiiint"
+    },
+    {
+      "symbol": "\\idotsint"
+    },
+    {
+      "symbol": "\\varlimsup"
+    },
+    {
+      "symbol": "\\varliminf"
+    },
+    {
+      "symbol": "\\varinjlim"
+    },
+    {
+      "symbol": "\\varprojlim"
+    }
+  ]

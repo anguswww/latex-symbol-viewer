@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -12,7 +12,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
-    --background-rgb: 17, 24, 39;
+    --background-rgb: 15, 23, 42;
 
   }
 }
@@ -21,3 +21,5 @@ body {
   color: rgb(var(--foreground-rgb));
   background: rgb(var(--background-rgb))
 }
+
+.katex { font-size: 4em; }
