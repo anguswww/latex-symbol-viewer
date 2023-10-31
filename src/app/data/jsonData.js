@@ -378,12 +378,6 @@ export const operators = [
     "symbol": "\\iiint"
   },
   {
-    "symbol": "\\iiiint"
-  },
-  {
-    "symbol": "\\idotsint"
-  },
-  {
     "symbol": "\\varlimsup"
   },
   {
@@ -642,12 +636,6 @@ export const misc_math = [
   },
   {
     "symbol": "\\ddot{•}"
-  },
-  {
-    "symbol": "\\dddot{•}"
-  },
-  {
-    "symbol": "\\ddddot{•}"
   },
   {
     "symbol": "\\mathring{•}"

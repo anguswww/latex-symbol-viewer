@@ -2,7 +2,7 @@ import Latex from "react-latex-next";
 import { FaCopy } from "react-icons/fa";
 import { toast } from 'react-toastify';
 import "katex/dist/katex.min.css";
-export default function Card(props) {
+export default function Card(props:any) {
     let symbol:string = "$"+props.symbol+"$";
     return (
         <div className="bg-slate-700 rounded-md shadow-md shadow-slate-800 text-center">
