@@ -1,8 +1,8 @@
 import Card from './card'
 
-export default function GridList(props) {
+export default function GridList(props:any) {
     let jsx = props.json.map(
-        (element, index) => (
+        (element:any, index:any) => (
             <div key={index}><Card symbol={element.symbol}/></div>
          )
      );
