@@ -7,7 +7,7 @@ export default function GridList(props:any) {
          )
      );
     return (
-        <div className="grid lg:grid-cols-5 grid-cols-3 gap-6 gap-y-4 pb-3">
+        <div className="grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-1 gap-6 gap-y-4 pb-3">
             {jsx}
         </div>
     )
